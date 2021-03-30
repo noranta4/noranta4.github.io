@@ -1,9 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+[//]: # (I am Antonio Norelli, PhD student in AI @ Sapienza University of Rome, CS department. More about me here.)
 
-![Image of fast.ai logo](images/logo.png)
-<img align="right" src="images/logo.png"> Prova
-Ciao Ciao
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[//]: # (<img align="left" src="images/logo.png"> )
