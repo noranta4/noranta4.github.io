@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Teaching to machines
+title: Teaching to machines - Antonio Norelli
 description: Thoughts from my journey in AI research
 github_username: noranta4
 
 # Email and twitter are optional:
-email: LAST@di.uniroma1.it
+email: norelli@di.uniroma1.delete_this.it
 twitter_username: noranta4
 
 # Set this to true to get LaTeX math equation support
